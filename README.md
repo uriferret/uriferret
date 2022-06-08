@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uriferret
 - 👀 I’m interested in Business Analytics, specialized in Finance and Accounting
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to business and analytics.
 - 📫 How to reach me : send an email to oriol.ferret@alum.upf.edu
 
 <!---
