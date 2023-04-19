@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uriferret
-- 👀 I’m interested in Business Analytics, specialized in Finance and Accounting. Microsoft Excel Certified and PowerBI expert.
+- 👀 I’m interested in Business Analytics, specialized in Finance and Accounting. Microsoft Excel Certified (VBA dev) and PowerBI expert.
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on projects related to Business and analytics fields. 
 - 📫 How to reach me : send an email to oriol.ferret@alum.upf.edu
