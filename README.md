@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Oriol Ferret Cedó
+- 👋 Hi, my name is Oriol Ferret
 - 👀 I’m interested in Business Analytics, specialized in Finance and Accounting. Microsoft Excel Certified (VBA dev) and PowerBI expert.
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on projects related to Business and analytics fields. 
