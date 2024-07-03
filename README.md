@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Oriol Ferret
-- 👀 I’m interested in Business Analytics, specialized in Finance and Accounting. Microsoft Excel Certified (VBA dev) and PowerBI expert.
-- 🌱 I’m currently learning SQL & Python
-- 💞️ I’m looking to collaborate on projects related to Business and analytics fields. 
+- 👀 I’m interested in Business Analytics, specialized in Finance and Accounting. Microsoft Excel Certified , VBA dev, PowerBI expert & SQL.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to Business Intelligence and Data Analytics fields. 
 - 📫 How to reach me : send an email to oriol.ferret@alum.upf.edu
 
 <!---
